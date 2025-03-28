@@ -2,5 +2,5 @@
 
 ## Company Database Dashboard
 
-![Company Database Dashboard](path/to/your/image/Company_Database_Dashboard.png)
+![Company Database Dashboard](https://github.com/Morobang/First-Data-Analysis-Project/Company_Database_Dashboard.png)
  
